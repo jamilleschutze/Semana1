@@ -1,0 +1,62 @@
+body {
+    background-color: rgba(218, 155, 74, 0.541);
+    margin: 50px;
+    text-align: center;
+    meta name="viewport" content="width=device-width, initial-scale=1.0">padding: 5px;
+    border: 3px rgba(218, 155, 74, 0.541) solid;
+    padding: 7px;
+    margin: 15px;
+}
+
+h1 {
+    color: rgba(58, 5, 5, 0.884);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif text-align: center;
+    border: 4px
+}
+
+p {
+    color: rgb(68, 10, 54);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+a {
+    text-decoration: underline;
+    color: maroon;
+}
+
+div {
+    padding: 2px;
+    border: 2px solid maroon;
+    ;
+}
+
+h2 {
+    color: rgb(71, 38, 12);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif letter-spacing: 0mm;
+}
+
+#t1 {
+    width: 550px;
+    height: 335, 5px;
+    border: 3px rgba(218, 155, 74, 0.541) dotted;
+    padding: 7px;
+}
+
+#t2 {
+    width: 900px;
+    height: 160px;
+    border: 3px rgba(218, 155, 74, 0.541) dotted;
+    padding: 7px;
+}
+
+.borda {
+    border: 15px;
+    padding: 6px;
+    margin: 10px
+}
+
+.borda2 {
+    border: 15px;
+    padding: 6px;
+    margin: 10px
+}
